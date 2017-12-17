@@ -2,8 +2,8 @@
 <resources>
 
     <string name="app_name">Bochs</string>
-    <string name="storage">Storage</string>
-    <string name="hardware">Hardware</string>
+    <string name="storage">ストレージ</string>
+    <string name="hardware">ハードウェア</string>
     <string name="misc">Misc</string>
     <string name="config_not_saved">Error, config not saved</string>
     <string name="config_saved">config saved</string>
